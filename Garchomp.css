@@ -1,0 +1,26 @@
+body {
+    font-family:'Crimson Text', serif;
+    font-size: 20px;
+    background-color: skyblue; 
+    border: 3px solid;
+    padding: 12px;
+    border-color: darkslategrey;
+}
+
+p {
+    border: 3px solid black;
+}
+
+#Garchomp {
+    background-color: cornflowerblue;
+}
+
+#mega {
+    background-color: darkcyan;
+}
+
+h1, h2 {
+    border-bottom: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: darkslategray;
+}
